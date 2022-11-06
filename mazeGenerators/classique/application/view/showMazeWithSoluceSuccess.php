@@ -1,0 +1,1 @@
+<a target="_blank" href="mazeSoluceOn.svg"><img class="w3-image w3-display-topmiddle" src="mazeSoluceOn.svg"/></a>

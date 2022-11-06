@@ -1,0 +1,1 @@
+<h3 class="w3-container w3-text-red w3-padding-64"><div class="w3-center">Error :<?php echo $context->error; ?></div></h3>
